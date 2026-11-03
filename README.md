@@ -8,7 +8,7 @@ For each input file the tool produces:
 - **`<name>_processed.csv`** — columns: `Datetime, pm1, pm2.5, pm4, pm10, pmt` (µg/m³)
 - **`<name>_processed_plot.png`** — PM₁, PM₂.₅, and PM₁₀ concentration time-series chart
 
-Python script was used to make the algorithm while the github repo and production was done in conjunction with Claude.
+Python script was used to make the algorithm.
 ---
 
 ## Download (Windows)
